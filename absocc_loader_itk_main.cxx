@@ -1,12 +1,7 @@
 
 /*==================================================================================================
 
-                Copyright (c) 2004 Electronic Data Systems Corporation
-                         Unpublished - All rights reserved
-
-====================================================================================================
-
-====================================================================================================
+                
    Date      Name                    Description of Change
 29-Apr-2004  Michael Baker           initial implementation
 07-May-2004  Michael Baker           remove use of Standard ANSI C++ and use old-style C++ (for HP & AIX)
